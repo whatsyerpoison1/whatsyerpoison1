@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Adam!
-- 👀 I’m interested in learning how to code and create apps!
-- 🌱 I’m currently learning the basics of building a website from scratch, having only used drag-and-drop tools before! Html, Css, javascript, and understanding the DOM, I'm taking baby steps!
-- 💞️ I’m looking to collaborate on small projects I am hopefully starting soon! If you are just starting your journey and want someone to give feedback or join you then reach out!
+- 👀 I'm interested in continuing to build on my projects and learn more about full-stack software development.
+- 🌱 Previous to the 'Le Wagon' bootcamp, i used drag-and-drop applications to build a functioning e-commerce site: www.ringrosebutchers.co.uk
+- 🍔 More recently I have developed a novel swiping app for finding specified meals to order
+- 💞️ I’m looking to collaborate on another project I am hopefully starting soon!
 - 📫 How to reach me ... Whatsyerpoison1@gmail.com :)
 
 <!---
