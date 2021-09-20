@@ -5,7 +5,8 @@
 - 💞️ I’m looking to collaborate on another project I am hopefully starting soon!
 - 📫 How to reach me ... Whatsyerpoison1@gmail.com :)
 
-[![whatsyerpoison1's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatsyerpoison1)](https://github.com/whatsyerpoison1/github-readme-stats)
+[![whatsyerpoison1's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatsyerpoison1)](https://github.com/whatsyerpoison1/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatsyerpoison1)](https://github.com/whatsyerpoison1/github-readme-stats)
+
 
 
 <!---
